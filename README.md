@@ -13,6 +13,10 @@ Initial dev - Treasure Kamicha
  JAVA SCRIPT
 
  ## USAGE
+
+ This project is a simple React application that demonstrates how to consume an external API and render dynamic data on the screen. The app fetches a list of users from the JSONPlaceholder API using Axios inside a useEffect hook. The data is stored in a useState hook and displayed in a styled list using the map function.
+
+ ## LICENSCE
  
 
  
